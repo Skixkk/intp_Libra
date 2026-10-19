@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/intp-Libra/',
+  base: '/intp_Libra/',
 
   title: "intp Libra",
   description: "intp&Libra",
