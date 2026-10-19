@@ -1,0 +1,26 @@
+{
+  "name": "intp_libra",
+  "version": "0.0.1",
+  "description": "inte and Libra",
+  "keywords": [
+    "MBTI",
+    "intp",
+    "Libra",
+    "Jungian"
+  ],
+  "homepage": "https://github.com/Skixkk/intp_Libra#readme",
+  "bugs": {
+    "url": "https://github.com/Skixkk/intp_Libra/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skixkk/intp_Libra.git"
+  },
+  "license": "MIT",
+  "author": "Skixkk",
+  "type": "module",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {}
+}
