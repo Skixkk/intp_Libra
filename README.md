@@ -55,5 +55,4 @@ The materials here are for **self-reference, pattern summarization and self-regu
   "MD013": false,
   "MD029": false
 }
-
 ```
