@@ -1,19 +1,18 @@
 \documentclass{book}
 \usepackage{ctex}
 \usepackage[cmex10]{amsmath}
-\raggedbottom
+\usepackage[
+    pdfpagemode=UseOutlines,
+    bookmarks=true,
+    bookmarksopen=true,
+    colorlinks=true,
+    linkcolor=black,
+    citecolor=black,
+    urlcolor=black
+]{hyperref}
+\usepackage{bookmark}
 
-% hyperref 放在末尾，生成PDF侧边书签 + 内部跳转链接
-\usepackage{hyperref}
-\hypersetup{
-    colorlinks = true,
-    linkcolor  = blue,
-    citecolor  = blue,
-    urlcolor   = blue,
-    pdftitle   = {INTP+Libra Self Notes},
-    pdfauthor  = {Skixkk},
-    pdfpagemode=UseOutlines, % 打开PDF时自动展开侧边书签面板
-}
+\raggedbottom
 
 \begin{document}
 \tableofcontents
