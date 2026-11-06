@@ -1,3 +1,11 @@
+/*
+ * @Author: Skixkk <166358870+Skixkk@users.noreply.github.com>
+ * @Date: 2026-10-19 20:53:52
+ * @LastEditors: Skixkk <166358870+Skixkk@users.noreply.github.com>
+ * @LastEditTime: 2026-11-06 23:22:52
+ * @FilePath: \intp_Libra\docs\.vitepress\config.ts
+ * @Description: config
+ */
 import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
@@ -18,7 +26,7 @@ export default defineConfig({
       {
         text: 'Examples',
         items: [
-          { text: 'Markdown Examples', link: '/mbti' },
+          { text: 'mbti', link: '/mbti' },
           { text: 'Libra', link: '/Libra' }
         ]
       }
