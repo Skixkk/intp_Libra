@@ -18,7 +18,8 @@ concurrency:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04 # Pin to ubuntu-24.04 to avoid ubuntu-latest migration notice
+    timeout-minutes: 10 # Extend timeout to resolve build abort timeout
     steps:
       - name: Checkout
         uses: actions/checkout@v5
@@ -34,9 +35,6 @@ jobs:
         uses: oven-sh/setup-bun@v2
         with:
           bun-version: latest
-
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
 
       - name: Install root dependencies
         run: bun install --frozen-lockfile
@@ -67,7 +65,7 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     needs: build
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04 # Pin to ubuntu-24.04 to avoid ubuntu-latest migration notice
     name: Deploy
     steps:
       - name: Deploy to GitHub Pages
