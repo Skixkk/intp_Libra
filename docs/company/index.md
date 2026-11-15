@@ -1,10 +1,10 @@
 ---
 prev: 
-  text: 'Libra'
-  link: '/Libra'
+  text: 'Finance'
+  link: '/finance'
 
 next: 
-  text: 'life'
+  text: 'Life'
   link: '/life'
 ---
 
