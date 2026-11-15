@@ -4,8 +4,8 @@ prev:
   link: 'mbti'
 
 next: 
-  text: 'company'
-  link: '/company'
+  text: 'Finance'
+  link: '/finance'
 ---
 
 <!--

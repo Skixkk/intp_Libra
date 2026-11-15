@@ -37,6 +37,7 @@ export default defineConfig({
         items: [
           { text: 'mbti', link: '/mbti' },
           { text: 'Libra', link: '/Libra' },
+          { text: 'Finance', link: '/finance' },
           { text: 'Company', link: '/company' },
           { text: 'Life', link: '/life' },
           { text: 'Work', link: '/work' },
