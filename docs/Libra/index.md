@@ -1,3 +1,22 @@
+---
+prev: 
+  text: 'mbti 荣格八维'
+  link: 'mbti'
+
+next: 
+  text: 'company'
+  link: '/company'
+---
+
+<!--
+ * @Author: Skixkk <166358870+Skixkk@users.noreply.github.com>
+ * @Date: 2026-10-19 20:55:52
+ * @LastEditors: Skixkk <166358870+Skixkk@users.noreply.github.com>
+ * @LastEditTime: 2026-11-15 17:50:11
+ * @FilePath: \intp_Libra\docs\Libra\index.md
+ * @Description: INTP＋天秤座（风象双重叠加）描述
+-->
+
 # INTP＋天秤座（风象双重叠加）
 
 INTP内核：Ti‑Ne逻辑思辨、内向抽离、追求真理、讨厌教条；天秤座叠加：追求公平美感、社交分寸、纠结权衡、厌恶冲突。

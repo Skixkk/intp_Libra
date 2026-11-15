@@ -2,7 +2,7 @@
  * @Author: Skixkk <166358870+Skixkk@users.noreply.github.com>
  * @Date: 2026-10-19 20:53:52
  * @LastEditors: Skixkk <166358870+Skixkk@users.noreply.github.com>
- * @LastEditTime: 2026-11-07 11:10:20
+ * @LastEditTime: 2026-11-15 17:48:03
  * @FilePath: \intp_Libra\docs\.vitepress\config.ts
  * @Description: config
  */
@@ -28,6 +28,9 @@ export default defineConfig({
         items: [
           { text: 'mbti', link: '/mbti' },
           { text: 'Libra', link: '/Libra' },
+          { text: 'Company', link: '/company' },
+          { text: 'Life', link: '/life' },
+          { text: 'Work', link: '/work' },
           { text: 'myself', link: '/myself' }
         ]
       }
