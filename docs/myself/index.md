@@ -1,3 +1,20 @@
+---
+prev: 
+  text: 'work'
+  link: '/work'
+
+next: false
+---
+
+<!--
+ * @Author: Skixkk <166358870+Skixkk@users.noreply.github.com>
+ * @Date: 2026-11-07 09:52:03
+ * @LastEditors: Skixkk <166358870+Skixkk@users.noreply.github.com>
+ * @LastEditTime: 2026-11-15 17:52:08
+ * @FilePath: \intp_Libra\docs\myself\index.md
+ * @Description: self-analysis
+-->
+
 # 自我分析
 
 - 厌恶冲突，镜子对待
@@ -8,4 +25,4 @@
 - 如果被消极对待并没有合理解释，立即触发情感隔离
 - 喜欢颜值，思维同频或有自己的事业，交换想法的对象；无脑情绪化、不讲逻辑的人会迅速降温。如果还不能提供情绪价值就会进入清理阶段。
 - 亲密，但彼此独立，尊重边界。但喜欢被喜欢的人强行打扰。不喜欢的人会增加情感负担。
-- 回避激烈争吵。会讲道理、拆解矛盾
+- 回避激烈争吵。讲道理、拆解矛盾，更重要的是情绪支撑，和情绪反馈。

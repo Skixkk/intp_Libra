@@ -1,8 +1,16 @@
+---
+prev: false
+
+next: 
+  text: '天秤'
+  link: '/Libra'
+---
+
 <!--
  * @Author: Skixkk <166358870+Skixkk@users.noreply.github.com>
  * @Date: 2026-10-19 20:55:04
  * @LastEditors: Skixkk <166358870+Skixkk@users.noreply.github.com>
- * @LastEditTime: 2026-10-19 21:07:16
+ * @LastEditTime: 2026-11-15 17:44:01
  * @FilePath: \intp_Libra\docs\mbti\index.md
  * @Description: mbti basic of analysis
 -->
